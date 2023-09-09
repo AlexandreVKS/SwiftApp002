@@ -144,6 +144,7 @@ class ViewController: UIViewController {
             numberText.text = String(result);
             firstNumber = result;
             secondNumber = 0;
+            
         }
     }
 }
